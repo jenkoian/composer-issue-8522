@@ -1,0 +1,9 @@
+{
+    "name": "jenkoian/b",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "B\\": "src"
+        }
+    }
+}
